@@ -76,3 +76,27 @@ Feel free to check Astro's [documentation](https://docs.astro.build)
 
 ---
 Maintained & updated by Bektur Aslan. Contributions welcome.
+# oriagent-home
+
+Chạy: npm run dev      
+
+git init                               
+git remote add origin https://github.com/username/repo.git 
+git add .                             
+git commit -m "Initial commit"       
+git branch -M main                      
+git push -u origin main  
+
+git init
+
+# Bước 3: Kết nối với repo GitHub
+git remote add origin https://github.com/Longhex/ahive.global.git
+
+# Bước 4: Thêm toàn bộ file vào staging
+git add .
+
+# Bước 5: Commit lần đầu
+git commit -m "Initial push to ahive.global"
+
+# Bước 6: Đẩy code lên nhánh chính (main hoặc master)
+git push -u origin master
